@@ -1,0 +1,5 @@
+main{
+    max-width: 1000px;
+    margin: 50px auto;
+    overflow: hidden; /*nos ayuda a que cuando algo este fuera de los 1000px se oculte*/
+}
